@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\iker_\onedrive\escritorio\tais\ejercicios\pajaros en vuelo\pajaros en vuelo\source.cpp(68): warning C4244: 'argumento': conversión de '__int64' a 'const int'; posible pérdida de datos
+  Pajaros en vuelo.vcxproj -> C:\Users\iker_\OneDrive\Escritorio\TAIS\Ejercicios\Pajaros en vuelo\Debug\Pajaros en vuelo.exe

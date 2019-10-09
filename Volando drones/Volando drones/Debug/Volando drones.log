@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\iker_\onedrive\escritorio\tais\ejercicios\volando drones\volando drones\source.cpp(37): warning C4101: 'diferencia': variable local sin referencia
+c:\users\iker_\onedrive\escritorio\tais\ejercicios\volando drones\volando drones\source.cpp(37): warning C4101: 'max15': variable local sin referencia
+c:\users\iker_\onedrive\escritorio\tais\ejercicios\volando drones\volando drones\source.cpp(37): warning C4101: 'max9': variable local sin referencia
+  Volando drones.vcxproj -> C:\Users\iker_\OneDrive\Escritorio\TAIS\Ejercicios\Volando drones\Debug\Volando drones.exe
